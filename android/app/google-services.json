@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "781542075067",
+    "project_id": "authentuto",
+    "storage_bucket": "authentuto.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781542075067:android:60f8503bda371cb23c579e",
+        "android_client_info": {
+          "package_name": "com.example.modernlogintute"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781542075067-3l8gget0to0slldesup7nad8gl3ahfmg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6FwTWWdJHLx3Fufm1bvip_tDpwGlBp9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781542075067-3l8gget0to0slldesup7nad8gl3ahfmg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
